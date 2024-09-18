@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+button {
+    height: 50px;
+    width: 50px;
+    margin: 20px;
+    font-size: 20px;
+    border-radius: 50%;
+    border-style: none;
+    background-color: black;
+    color: white;
+    box-shadow: 0 0 30px aqua;
+}
+.bod {
+    height: 100vh;
+    width: 100%;
+}
+
